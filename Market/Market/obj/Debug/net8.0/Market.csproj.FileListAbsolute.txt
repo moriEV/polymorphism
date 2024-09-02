@@ -1,0 +1,14 @@
+G:\modul\Market\Market\bin\Debug\net8.0\Market.exe
+G:\modul\Market\Market\bin\Debug\net8.0\Market.deps.json
+G:\modul\Market\Market\bin\Debug\net8.0\Market.runtimeconfig.json
+G:\modul\Market\Market\bin\Debug\net8.0\Market.dll
+G:\modul\Market\Market\bin\Debug\net8.0\Market.pdb
+G:\modul\Market\Market\obj\Debug\net8.0\Market.GeneratedMSBuildEditorConfig.editorconfig
+G:\modul\Market\Market\obj\Debug\net8.0\Market.AssemblyInfoInputs.cache
+G:\modul\Market\Market\obj\Debug\net8.0\Market.AssemblyInfo.cs
+G:\modul\Market\Market\obj\Debug\net8.0\Market.csproj.CoreCompileInputs.cache
+G:\modul\Market\Market\obj\Debug\net8.0\Market.dll
+G:\modul\Market\Market\obj\Debug\net8.0\refint\Market.dll
+G:\modul\Market\Market\obj\Debug\net8.0\Market.pdb
+G:\modul\Market\Market\obj\Debug\net8.0\Market.genruntimeconfig.cache
+G:\modul\Market\Market\obj\Debug\net8.0\ref\Market.dll

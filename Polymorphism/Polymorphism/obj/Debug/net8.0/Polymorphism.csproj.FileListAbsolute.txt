@@ -1,0 +1,14 @@
+G:\modul\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.exe
+G:\modul\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.deps.json
+G:\modul\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.runtimeconfig.json
+G:\modul\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.dll
+G:\modul\Polymorphism\Polymorphism\bin\Debug\net8.0\Polymorphism.pdb
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfoInputs.cache
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.AssemblyInfo.cs
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.csproj.CoreCompileInputs.cache
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.dll
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\refint\Polymorphism.dll
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.pdb
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\Polymorphism.genruntimeconfig.cache
+G:\modul\Polymorphism\Polymorphism\obj\Debug\net8.0\ref\Polymorphism.dll
